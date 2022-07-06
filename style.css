@@ -62,3 +62,17 @@
     border: 2px solid tomato;
     background-color: rgba(255, 99, 71, 0.115);
 }
+#other-amount{
+    text-align: center;
+    font-size:21px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    margin-left: 19%;
+    margin-right: 18%;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.324);
+    color: rgba(128, 128, 128, 0.472);
+}
+.second-button{
+    margin-left: 630px;
+}
