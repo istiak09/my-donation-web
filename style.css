@@ -1,0 +1,64 @@
+.first-sec{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    width: 100%;
+    padding-top: 150px;
+    color: white;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: inherit;
+    
+}
+.button{  
+    color: white;
+    background-color: tomato;
+    border-radius: 4px;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+#first-p{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.header{
+    font-size: 70px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.second-sec{
+    text-align: center;
+    margin-top: 120px;
+    font-family: 'Poppins', sans-serif;
+    height: 200px;
+    width: 100%;
+}
+.second-header{
+    font-size: 50px;
+}
+#second-p{
+    color: rgba(58, 55, 55, 0.472);
+    font-size: 20px;
+}
+.third-sec{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(76, 76, 76, 0.819);
+    margin-top: 20px;
+    text-align: center;
+    height: 120px;
+    width: 100%;
+}
+.second-p{
+    padding: 40px;
+    border-radius: 4px;
+    background-color: rgba(229, 232, 232, 0.326);
+    margin-left: 18px;
+    font-size: 50px;
+    }
+#special-donate{
+    border: 2px solid tomato;
+    background-color: rgba(255, 99, 71, 0.115);
+}
