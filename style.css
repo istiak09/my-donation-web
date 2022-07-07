@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
 .first-sec{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -7,9 +11,8 @@
     padding-top: 150px;
     color: white;
     text-align:center;
-    font-family: 'Poppins', sans-serif;
     box-sizing: inherit;
-    
+   
 }
 .button{  
     color: white;
@@ -75,4 +78,58 @@
 }
 .second-button{
     margin-left: 630px;
+}
+
+.fourth-header{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.headeing-p{
+    color: rgba(58, 55, 55, 0.472);
+    font-size: 20px;
+    text-align: center;
+}
+.boxes{
+    display: inline-block;
+    padding:30px 15px;
+    border-radius: 4px;
+    width: 300px;
+}
+#box1{
+    margin-top: 30px;
+    margin-left:170px;
+    margin-right: 10px;
+    background-color: rgba(104, 126, 181, 0.073);
+}
+#box2{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgba(255, 192, 203, 0.214);
+}
+#box3{
+    margin-left: 10px;
+    margin-right: 70px;
+    background-color:rgba(255, 228, 196, 0.429);
+}
+.fourth-section{
+    width: 30%;
+    display: inline-block;
+    font-size: 20px;
+   
+}
+.fourth-section img{
+    width: 100%;
+    margin-top: 100px;
+}
+
+#fourt-s{
+    text-align: left;
+    border: ;
+   
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-left:20px ;
+    margin-bottom: 50px;
 }
