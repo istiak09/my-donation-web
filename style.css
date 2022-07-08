@@ -124,12 +124,47 @@ body{
     margin-top: 100px;
 }
 
-#fourt-s{
+#fourth-s{
     text-align: left;
-    border: ;
-   
     margin-left: 200px;
     margin-right: 100px;
     padding-left:20px ;
     margin-bottom: 50px;
+}
+.fifth-s{
+    display: inline-block;
+    width: 30%;
+    font-size: 20px;
+    width: 30%;
+    margin-left: 250px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.fifth-s img{
+    width: 100%;
+}
+#fourt-s{
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-left:20px ;
+    
+}
+#fifth-s{
+    width: 30%;
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 150px;
+    padding-top: 40px;
+}
+#footer1{
+    font-size: 40px;
+    color: brown;
+    font-family: monospace;
+}
+#footer2{
+    font-size: 15px;
+    color: rgba(240, 248, 255, 0.532);
 }
